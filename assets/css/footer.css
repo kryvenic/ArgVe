@@ -1,0 +1,39 @@
+/* Footer */
+
+footer {
+    background-color: #3282b8;
+    color: white;
+    font-size: 15px;
+    align-items: center;
+    width: 100%;
+    bottom: 0;
+}
+
+footer .footer-text {
+    margin: 0px;
+}
+
+.footer-text p{
+    margin-top: 20px;
+    padding-left: 5px;
+}
+
+footer .row{
+    height: auto;
+}
+
+#footer-logo {
+    margin: 20px;
+    height: 50px;
+}
+
+#social-link img {
+    height: 50px;
+    width: 50px;
+    padding: auto 20px;
+    margin: 13px;
+}
+
+.social-links{
+    margin-right: 30px;
+}

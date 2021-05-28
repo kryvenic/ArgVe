@@ -1,0 +1,36 @@
+/* Navbar */
+
+.navbar {
+    background-color: #222831;
+}
+
+.navbar-nav{
+    text-align: center;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.dropdown-item{
+    text-align: center;
+}
+
+.nav-link {
+    height: 60px;
+    padding: 20px 30px;
+}
+
+ul li.active a {
+    color: black;
+    background-color: black;
+}
+
+#logo-1 {
+    border-radius: 10px;
+    padding-left: 10px;
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+}
