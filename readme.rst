@@ -1,3 +1,9 @@
+IMPORTANTE
+
+Descargar la base de datos "kryvenki.sql" e importarla en su XAMPP nativo.
+Descargar y utilizar "contraseñas.txt" para acceder a los distintos tipos de usuarios.
+
+
 ###################
 What is CodeIgniter
 ###################
