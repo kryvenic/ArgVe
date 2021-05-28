@@ -1,0 +1,10 @@
+Contraseñas de los usuarios:
+
+[ADMIN] nicolaskry@hotmail.com => 12345678
+
+[CLIENTES]
+martincout15lv@gmail.com => 12345678
+patriciar@gmail.com => patricia69
+aguscrack@hotmail.com => 12345678
+iranzo@yahoo.com => 12345678
+luciasalazar@gmail.com => salazar1234
